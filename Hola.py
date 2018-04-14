@@ -10,13 +10,13 @@ Colordeojos= "cafe"
 print(Nombre,"\n", Apellido,"\n", Edad,"\n", Genero,"\n", Comidafavorita,"\n", Signozodiacal,"\n", Colordeojos,"\n")   
 """
 #Codigo2
-Nombre= str(input("Dame tu nombre: "))
-Apellido= str (input("Dame tu apellido: "))
-Edad=int (input("Dime tu edad: "))
-Genero=str (input("Genero: "))
-Comidafavorita=str  (input("¿Cual es tu comida favorita? "))
-Signozodiacal=str (input("Sgino zodiacal: "))
-Colordeojos= str (input("Color de ojos: "))
+Nombre= input("Dame tu nombre: ")
+Apellido= input("Dame tu apellido: ")
+Edad= input("Dime tu edad: ")
+Genero= input("Genero: ")
+Comidafavorita= input("¿Cual es tu comida favorita? ")
+Signozodiacal= input("Sgino zodiacal: ")
+Colordeojos= input("Color de ojos: ")
  
 print("Nombre: ", Nombre,"\n",
       "Apellido: ", Apellido,"\n",
