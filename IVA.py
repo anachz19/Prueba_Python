@@ -6,3 +6,4 @@ print("Tu cantidad es: ", Cantidad, "y tu IVA es ", IVA,
         "Tu cantidad total es: ", Resultado)
 
 input(".....")
+
