@@ -1,6 +1,7 @@
 print("Que tabla quieres?")
 a=int(input())
-for var in range(1,11):
+var= int(input("Hasta que numero"))
+for var in range(1, var+1):
     print(var, "x= ",a, var*a)
 
 
