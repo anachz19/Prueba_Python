@@ -6,3 +6,4 @@ for var in range(1, var+1):
 
 
 input(".....")
+
